@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NLangid.Examples", "NLangid.Examples\NLangid.Examples.csproj", "{CF701A41-A96F-40D4-9286-22AB56A56085}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NLangid", "NLangid\NLangid.csproj", "{84FED6A5-EB5B-4D17-BD84-B7270746B85B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "解决方案项", "解决方案项", "{CFFEB80B-8493-45A3-A61A-8CA26FBBBE6A}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF701A41-A96F-40D4-9286-22AB56A56085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF701A41-A96F-40D4-9286-22AB56A56085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF701A41-A96F-40D4-9286-22AB56A56085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF701A41-A96F-40D4-9286-22AB56A56085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84FED6A5-EB5B-4D17-BD84-B7270746B85B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84FED6A5-EB5B-4D17-BD84-B7270746B85B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84FED6A5-EB5B-4D17-BD84-B7270746B85B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84FED6A5-EB5B-4D17-BD84-B7270746B85B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E45F5A7-00C0-4604-9EDD-65CBC6588003}
+	EndGlobalSection
+EndGlobal

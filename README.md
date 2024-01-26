@@ -38,11 +38,8 @@ Refer to
 
 [2] https://github.com/saffsd/langid.py
 
+[3] http://aclweb.org/anthology-new/I/I11/I11-1062.pdf
 
-References
-----------
-[1] http://aclweb.org/anthology-new/I/I11/I11-1062.pdf
-
-[2] https://github.com/protocolbuffers/protobuf
+[4] https://github.com/protocolbuffers/protobuf
 
 

@@ -14,6 +14,7 @@ Please enter text:
 över våra gemensamma värden - frihet, demokrati och social rättvisa - och
 
 sv
+
 De gør et godt stykke arbejde og har brug for at vide, at de kan underskrive kontrakter om bygninger og udbetale lønninger til næste år.
 
 da
@@ -22,7 +23,7 @@ da
 
 bg
 
-2024，愿你有能力爱自己，有余力爱别人……
+语音识别、语音合成、翻译等项目里可能会用到语种检测……
 
 zh
 

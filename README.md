@@ -7,7 +7,14 @@ A c# library for language identification of text
 
 Run the example
 ----------
-
+```
+NLangid.LangidRecognizer langidRecognizer = new NLangid.LangidRecognizer();
+NLangid.TextStream stream = langidRecognizer.CreateTextStream();
+stream.AddText("Hello world!");
+NLangid.Model.LangidRecognizerResultEntity langidRecognizerResultEntity = new NLangid.Model.LangidRecognizerResultEntity();
+langidRecognizerResultEntity = langidRecognizer.GetResult(stream);
+Console.WriteLine(langidRecognizerResultEntity.Language);
+```
 ```
 Please enter text:
 
